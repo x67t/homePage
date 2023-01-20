@@ -50,7 +50,7 @@ let linksData = [
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "http://KOD.X67T.SPACE/",
   },
   {
     icon: CompactDisc,
